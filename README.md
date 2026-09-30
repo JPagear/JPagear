@@ -81,12 +81,16 @@ Bash · Terraform · Ansible · Docker
 
 ## Background
 
-CTESP — Redes e Sistemas Informáticos (ESTGA), with hands-on coursework in networking, systems administration, cloud infrastructure, and distributed systems.
+- CTESP — Redes e Sistemas Informáticos (ESTGA)
+- Hands-on coursework: networking, systems administration, cloud infrastructure, distributed systems
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JPagear/JPagear/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
-
 <sub>Some forked repositories on this profile are exploratory reads of third-party tools, not original work, and are intentionally left off this list.</sub>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JPagear/JPagear/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/JPagear/JPagear/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
+  </picture>
+</p>
