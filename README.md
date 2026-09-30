@@ -1,8 +1,20 @@
-# João Almeida
+<p align="center">
+  <img src="assets/header.svg" alt="João Almeida — Systems Administration / Network Infrastructure / Cybersecurity / IT Infrastructure" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/typing.svg" alt="Systems Administration · Network Infrastructure · Cybersecurity · Infrastructure Automation" />
+</p>
 
 **Systems Administration · Network Infrastructure · Cybersecurity · IT Infrastructure**
 
 I keep systems running, networks reachable, and infrastructure defensible.
+
+---
+
+<p align="center">
+  <img src="assets/path.svg" alt="Networking to Systems Administration to Infrastructure to Cybersecurity" width="720" />
+</p>
 
 ---
 
@@ -43,10 +55,38 @@ Also: [`Portifolio-Digital`](https://github.com/JPagear/Portifolio-Digital), a p
 
 ---
 
+## Technologies
+
+**SYSTEMS**
+Windows Server · Linux · Active Directory · Microsoft 365
+
+**NETWORK**
+DNS · DHCP · VLAN · Routing · VPN
+
+**SECURITY**
+Wazuh · SIEM · OpenSearch · FortiGate
+
+**AUTOMATION**
+Bash · Terraform · Ansible · Docker
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JPagear&amp;show_icons=true&amp;theme=dark&amp;hide_title=true&amp;count_private=true&amp;hide_border=true" alt="GitHub stats" height="165" />
+</p>
+
+---
+
 ## Background
 
 CTESP — Redes e Sistemas Informáticos (ESTGA), with hands-on coursework in networking, systems administration, cloud infrastructure, and distributed systems.
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JPagear/JPagear/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</p>
 
 <sub>Some forked repositories on this profile are exploratory reads of third-party tools, not original work, and are intentionally left off this list.</sub>

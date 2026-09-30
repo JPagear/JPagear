@@ -1,0 +1,37 @@
+<svg width="640" height="40" viewBox="0 0 640 40" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono',Consolas,monospace" font-size="16">
+  <rect width="640" height="40" fill="#0d1117"/>
+  <text x="18" y="26" fill="#58a6ff">&gt;</text>
+
+  <defs>
+    <clipPath id="cType1"><rect x="44" y="8" width="0" height="24">
+      <animate attributeName="width" keyTimes="0;0.075;0.20;0.23;0.25;1" values="0;215;215;0;0;0" dur="16s" begin="0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="cType2"><rect x="44" y="8" width="0" height="24">
+      <animate attributeName="width" keyTimes="0;0.25;0.325;0.45;0.48;0.50;1" values="0;0;215;215;0;0;0" dur="16s" begin="0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="cType3"><rect x="44" y="8" width="0" height="24">
+      <animate attributeName="width" keyTimes="0;0.50;0.575;0.70;0.73;0.75;1" values="0;0;125;125;0;0;0" dur="16s" begin="0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <clipPath id="cType4"><rect x="44" y="8" width="0" height="24">
+      <animate attributeName="width" keyTimes="0;0.75;0.825;0.95;0.98;1" values="0;0;245;245;0;0" dur="16s" begin="0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+
+  <text x="44" y="26" fill="#c9d1d9" clip-path="url(#cType1)">Systems Administration</text>
+  <text x="44" y="26" fill="#c9d1d9" clip-path="url(#cType2)">Network Infrastructure</text>
+  <text x="44" y="26" fill="#c9d1d9" clip-path="url(#cType3)">Cybersecurity</text>
+  <text x="44" y="26" fill="#c9d1d9" clip-path="url(#cType4)">Infrastructure Automation</text>
+
+  <rect x="259" y="9" width="8" height="18" fill="#58a6ff">
+    <animate attributeName="opacity" keyTimes="0;0.075;0.20;0.23;0.25;1" values="0;1;1;0;0;0" dur="16s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="259" y="9" width="8" height="18" fill="#58a6ff">
+    <animate attributeName="opacity" keyTimes="0;0.25;0.325;0.45;0.48;0.50;1" values="0;0;1;1;0;0;0" dur="16s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="169" y="9" width="8" height="18" fill="#58a6ff">
+    <animate attributeName="opacity" keyTimes="0;0.50;0.575;0.70;0.73;0.75;1" values="0;0;1;1;0;0;0" dur="16s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="289" y="9" width="8" height="18" fill="#58a6ff">
+    <animate attributeName="opacity" keyTimes="0;0.75;0.825;0.95;0.98;1" values="0;0;1;1;0;0" dur="16s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+</svg>
